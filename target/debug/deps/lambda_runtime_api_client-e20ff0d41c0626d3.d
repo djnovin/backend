@@ -1,0 +1,14 @@
+/Users/novinnoori/novin-email/backend/target/debug/deps/liblambda_runtime_api_client-e20ff0d41c0626d3.rmeta: /Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/lib.rs /Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/error.rs /Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/body/mod.rs /Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/body/channel.rs /Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/body/sender.rs /Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/body/watch.rs /Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/tracing.rs
+
+/Users/novinnoori/novin-email/backend/target/debug/deps/lambda_runtime_api_client-e20ff0d41c0626d3.d: /Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/lib.rs /Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/error.rs /Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/body/mod.rs /Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/body/channel.rs /Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/body/sender.rs /Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/body/watch.rs /Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/tracing.rs
+
+/Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/lib.rs:
+/Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/error.rs:
+/Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/body/mod.rs:
+/Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/body/channel.rs:
+/Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/body/sender.rs:
+/Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/body/watch.rs:
+/Users/novinnoori/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lambda_runtime_api_client-0.11.1/src/tracing.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.11.1
+# env-dep:LAMBDA_RUNTIME_USER_AGENT
