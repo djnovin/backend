@@ -1,1 +1,0 @@
-ServiceFn<fn() -> impl Future<Output = Result<LambdaEvent<serde_json::Value>, Box<(dyn std::error::Error + Send + Sync + 'static)>>> {handler}>
